@@ -1,8 +1,6 @@
 # Data-Strucure
-
-[Final Project](https://colab.research.google.com/drive/1BF-IPPRmj68i8540-3rY8B-4iQWJ2vdc#scrollTo=z93fyaqfsxoL)
-
-# ds_llm_babyboss
+**Final Project：**
+[ds_llm_babyboss](https://colab.research.google.com/drive/1BF-IPPRmj68i8540-3rY8B-4iQWJ2vdc#scrollTo=z93fyaqfsxoL)
 
 這是一個使用 Flask 框架建立的專案，旨在利用影像辨識寶寶狀態、抓取即時的溫濕度資訊、使用Line Bot應用程式回應用戶的訊息並提供建議。
 
