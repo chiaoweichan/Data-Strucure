@@ -50,10 +50,14 @@ sh
 ## 功能
 
 - **影像辨識**：透過影像辨識獲取當前寶寶狀態，並透過亮起的燈號分別表示不同狀態 。
-  +嬰兒哭泣：Light 11
-  *嬰兒睡覺：Light 12
-  +嬰兒起床：Light 13
-  *嬰兒面朝下：Light 14
+
+     嬰兒哭泣：Light 11
+  
+     嬰兒睡覺：Light 12
+
+     嬰兒起床：Light 13
+  
+     嬰兒面部朝下：Light 14
   
 - **溫濕度**：抓取openweathermap以獲取當前地點的溫度和濕度資訊，若溫度>=28ﾟC就開啟冷氣，若溫度<28ﾟC則關閉冷氣。
          
@@ -79,7 +83,7 @@ sh
 ## 聯絡作者
 
 
-- [溫苡含][(https://github.com/sophieuen2003/DS)]
-- [林元方][(https://github.com/Duckucy/112-2-Data-Structure)]
-- [楊思瑜][https://github.com/szuyu830]
-- [詹喬崴][(https://github.com/chiaoweichan/Data-Strucure)]
+- [溫苡含](https://github.com/sophieuen2003/DS)
+- [林元方](https://github.com/Duckucy/112-2-Data-Structure)
+- [楊思瑜](https://github.com/szuyu830)
+- [詹喬崴](https://github.com/chiaoweichan/Data-Strucure)
